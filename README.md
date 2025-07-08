@@ -13,9 +13,8 @@ This project analyzes retail sales performance and customer satisfaction metrics
                     Date formatting<br>         
         *Power BI Dashboard*<br>
          File Name: Retail_miniproject2.pbix<br>
-         Dashboard Features:<br>
-         
-                   Sales performance by store type and product category<br>
+         Dashboard Features:<br>         
+                    Sales performance by store type and product category<br>
                     Customer satisfaction by store location<br>
                     Return rates by product category<br>
                     Payment method  vs purchase amount<br>
