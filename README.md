@@ -9,18 +9,16 @@ This project analyzes retail sales performance and customer satisfaction metrics
         
 **Project components**<br>
 
-       * Excel File*<br>
+     *Excel File*<br>
         File Name: MINIPROJECT.xlsx<br>
         Functionality: <br>
-        
                     Raw data cleaning and validation<br>
-                    Date formatting<br>
-                    
+                    Date formatting<br>         
         *Power BI Dashboard*<br>
          File Name: Retail_miniproject2.pbix<br>
          Dashboard Features:<br>
          
-                    Sales performance by store type and product category<br>
+                   Sales performance by store type and product category<br>
                     Customer satisfaction by store location<br>
                     Return rates by product category<br>
                     Payment method  vs purchase amount<br>
