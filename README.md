@@ -1,10 +1,10 @@
 # Retail.Shaliha29
-A mini project on RETAIL SALES CUSTOMER SATISFACTION ANALYSIS done in MS excel and Powerbi
-This project analyzes retail sales performance and customer satisfaction metrics using Microsoft Excel for data cleaning and preparation, and Power BI for interactive dashboard visualizations.
-Objectives are
-        *Understand sales performance across different regions, product categories, and time periods.
-        *Analyze customer satisfaction ratings and identify areas of improvement.
-        *Provide an interactive dashboard for ongoing monitoring and decision support.
+**A mini project on RETAIL SALES CUSTOMER SATISFACTION ANALYSIS done in MS excel and Powerbi**<br>
+This project analyzes retail sales performance and customer satisfaction metrics using **Microsoft Excel** for data cleaning and preparation, and**PowerBI**for interactive dashboard visualizations.<br>
+Objectives are<br>
+        - *Understand sales performance across different regions, product categories, and time periods.
+        - *Analyze customer satisfaction ratings and identify areas of improvement.
+        - *Provide an interactive dashboard for ongoing monitoring and decision support.<br>
 Project components
         Excel File
         File Name: MINIPROJECT.xlsx
